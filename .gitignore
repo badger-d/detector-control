@@ -1,0 +1,7 @@
+.*.swp
+.project
+.pydevproject
+data/*
+src/*.pyc
+*.pyc
+
